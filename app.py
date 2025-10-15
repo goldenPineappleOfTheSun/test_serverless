@@ -1,4 +1,5 @@
 import runpod
+import os
 from transformers import pipeline
 
 
